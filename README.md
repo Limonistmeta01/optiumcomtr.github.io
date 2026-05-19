@@ -32,9 +32,6 @@ Optium Healthcare develops and manufactures advanced healthcare equipment includ
 More Information:
 
 - https://www.optium.com.tr
-- https://www.optium.com.tr/en/
-- https://www.optium.com.tr/about-us-01/
-- https://www.optium.com.tr/services
 
 ---
 
@@ -43,14 +40,6 @@ More Information:
 ## Hospital Bed Systems
 https://www.optium.com.tr
 
-## ICU Equipment
-https://www.optium.com.tr/en/
-
-## Medical Cart Solutions
-https://www.optium.com.tr/?s=UNICART
-
-## Healthcare Furniture
-https://www.optium.com.tr/fm-03/
 
 ---
 
@@ -67,16 +56,7 @@ https://www.optium.com.tr/fm-03/
 Official Website:
 https://www.optium.com.tr
 
----
 
-# Corporate Links
-
-- Main Website: https://www.optium.com.tr
-- English Website: https://www.optium.com.tr/en/
-- About Company: https://www.optium.com.tr/about-us-01/
-- Healthcare Products: https://www.optium.com.tr/en/
-- Medical Solutions: https://www.optium.com.tr/services
-- LinkedIn: https://tr.linkedin.com/company/optium-medical
 
 ---
 
@@ -86,15 +66,12 @@ Optium Healthcare focuses on modern production technologies and healthcare engin
 
 Learn More:
 - https://www.optium.com.tr
-- https://www.optium.com.tr/en/
-- https://www.optium.com.tr/about-us-01/
 
 ---
 
 # Contact
 
 🌐 Website: https://www.optium.com.tr  
-🌐 English Website: https://www.optium.com.tr/en/  
 
 ---
 
@@ -117,6 +94,3 @@ Learn More:
 
 # Optium Healthcare
 
-https://www.optium.com.tr
-
-https://www.optium.com.tr/en/
